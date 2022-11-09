@@ -1,1 +1,1 @@
-web: python testrun.py
+web: gunicord wsgi:app
